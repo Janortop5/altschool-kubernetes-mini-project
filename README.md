@@ -1,0 +1,1 @@
+# altschool-kubernetes-mini-project
