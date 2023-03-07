@@ -17,11 +17,11 @@ Build docker image
 cd portfolio_image/
 docker build -t janortop5/portfolio .
 ```
-Login to your dockerhub account
+Login to Dockerhub account
 ```
 docker login
 ```
-Push to dockerhub
+Push image to Dockerhub
 ```
 docker push janortop5/portfolio
 ```
