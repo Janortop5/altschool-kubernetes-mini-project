@@ -1,5 +1,5 @@
 # altschool-kubernetes-mini-project
-Kubernetes deployment of portfolio website on GCP, with the portfolio image being built from Dockerfile based off Nginx image and published to Docker registry.
+Kubernetes deployment of portfolio website on GCP, with the portfolio image being built from Dockerfile, based off Nginx image and published to Docker registry.
 
 ### portfolio_image/
 - Dockerfile to build the portfolio image.
