@@ -26,7 +26,7 @@ Push image to Dockerhub
 docker push janortop5/portfolio
 ```
 ### Deploy
-Create kubernetes components
+Create kubernetes components <br>
 in ./
 ```
 kubectl create -f portfolio.yml
